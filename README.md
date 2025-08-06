@@ -2,6 +2,13 @@
 
 I'm Zachary and I'm from Orange County, California! I'm currently studying Software Engineering and Theatre at Chapman University for my Bachelor of Science and Bachelor of Arts, respectively, and am on track to graduate in May 2027. 
 
+Coding Languages I've worked with include:
+  - C++
+  - Java
+  - Python
+  - HTML
+  - C#
+
 
 <!--
 **zacharycolby/zacharycolby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
